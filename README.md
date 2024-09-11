@@ -5,4 +5,5 @@ This analysis focuses on building and evaluating several machine learning models
 1. Data Preprocessing
 2. Model Training and Tuning
 3. Model Evaluation
-4. Model Comparison
+4. Feature Importance and SHAP Analysis
+5. Model Comparison
